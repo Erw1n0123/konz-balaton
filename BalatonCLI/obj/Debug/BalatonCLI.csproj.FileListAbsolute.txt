@@ -1,0 +1,9 @@
+C:\Users\kisse\OneDrive\weszéj\Asztali & Mobil\04.26\BalatonCLI\BalatonCLI\bin\Debug\utca.txt
+C:\Users\kisse\OneDrive\weszéj\Asztali & Mobil\04.26\BalatonCLI\BalatonCLI\bin\Debug\BalatonCLI.exe.config
+C:\Users\kisse\OneDrive\weszéj\Asztali & Mobil\04.26\BalatonCLI\BalatonCLI\bin\Debug\BalatonCLI.exe
+C:\Users\kisse\OneDrive\weszéj\Asztali & Mobil\04.26\BalatonCLI\BalatonCLI\bin\Debug\BalatonCLI.pdb
+C:\Users\kisse\OneDrive\weszéj\Asztali & Mobil\04.26\BalatonCLI\BalatonCLI\obj\Debug\BalatonCLI.csproj.AssemblyReference.cache
+C:\Users\kisse\OneDrive\weszéj\Asztali & Mobil\04.26\BalatonCLI\BalatonCLI\obj\Debug\BalatonCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\kisse\OneDrive\weszéj\Asztali & Mobil\04.26\BalatonCLI\BalatonCLI\obj\Debug\BalatonCLI.csproj.CoreCompileInputs.cache
+C:\Users\kisse\OneDrive\weszéj\Asztali & Mobil\04.26\BalatonCLI\BalatonCLI\obj\Debug\BalatonCLI.exe
+C:\Users\kisse\OneDrive\weszéj\Asztali & Mobil\04.26\BalatonCLI\BalatonCLI\obj\Debug\BalatonCLI.pdb
